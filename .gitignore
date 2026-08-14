@@ -1,0 +1,12 @@
+# snaprepo's own output, in case you ever run it against its own repo
+project_snapshot_*.txt
+project_snapshot_*.md
+
+# Python
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# OS noise
+.DS_Store
