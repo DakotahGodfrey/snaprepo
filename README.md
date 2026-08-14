@@ -1,7 +1,7 @@
 # snaprepo
 
 Flatten a codebase into a single AI-ready snapshot -- handy for handing
-an AI agent a whole repo's worth of context in one paste/upload.
+an AI agent your repo's content in one paste/upload.
 
 ## Install (local, editable)
 
